@@ -8,6 +8,6 @@ Esse projeto é para 2 casos de teste:
  
  2-Validar valor do campo emial no formulário do caso 1
  - Foi utilizado o driver chromedriver para teste no navegador chrome.
- - Foram preenchidos os campos do formulário sem o submit e aprensetado 
+ - Foram preenchidos os campos do formulário sem o submit e aprensetado a comparação do valor do campo no log do Junit
  
  
