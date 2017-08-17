@@ -10,4 +10,5 @@ Esse projeto é para 2 casos de teste:
  - Foi utilizado o driver chromedriver para teste no navegador chrome.
  - Foram preenchidos os campos do formulário sem o submit e aprensetado a comparação do valor do campo no log do Junit
  
- 
+O teste pode ser aperfeiçoado com Logs do andamento dos testes e incluido mais navegadores para realizar os teste.
+
